@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シスターに懺悔を / 重音テトsv",
+  "base_artist": "廃原メモリ / Haibara memory",
+  "createdAt": "2025-12-09T03:12:34.401056Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シスターに懺悔を (feat. 重音テト)",
+      "artist": "廃原メモリ, 重音テト",
+      "has_synced": false,
+      "path": "select/pl_01_シスターに懺悔を_(feat._重音テト)_廃原メモリ,_重音テト.txt"
+    }
+  ]
+}
